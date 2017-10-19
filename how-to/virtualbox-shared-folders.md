@@ -1,4 +1,4 @@
-Enabling shared folders on ElementaryOS VM
+# Enabling shared folders on ElementaryOS VM
 
 1. Download GuestAdditions iso from VirtualBox
 2. Attach iso to VM (Settings -> Storage -> Controller:IDE
@@ -7,7 +7,7 @@ Enabling shared folders on ElementaryOS VM
 5. sudo sh ./VBoxLinuxAdditions.run
 
 
-Mounting a shared folder
+# Mounting a shared folder
 
 1. Settings > Shared Folders
 2. Add folder to share on host machine
@@ -18,6 +18,6 @@ Mounting a shared folder
     + <path on guest> path the folder created in step 3
 
 
-References
+## References
 
 https://help.ubuntu.com/community/VirtualBox/SharedFolders
