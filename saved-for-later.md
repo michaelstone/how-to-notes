@@ -14,3 +14,11 @@ https://github.com/tc39/proposal-bigint
 
 ### Dynamic programming
 http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles
+
+
+### Intellij
+
+#### Increase run/debug console buffer
+
+MacOS
+/Applications/IntelliJ IDEA.app/Contents/bin
