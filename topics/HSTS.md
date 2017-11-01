@@ -37,6 +37,8 @@ Version 62 - Any sites with an input box marked as 'not secure' if not served ov
 - https://hstspreload.org/
 - https://www.troyhunt.com/understanding-http-strict-transport/
 - https://www.chromium.org/hsts
+- https://securityheaders.io/
+- https://scotthelme.co.uk/hsts-the-missing-link-in-tls/
 
 ### SSL Stripping
 - https://www.youtube.com/watch?v=MFol6IMbZ7Y
