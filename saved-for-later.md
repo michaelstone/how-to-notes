@@ -22,3 +22,8 @@ http://www.flawlessrhetoric.com/Dynamic-Programming-First-Principles
 
 MacOS
 /Applications/IntelliJ IDEA.app/Contents/bin
+
+### TLS
+
+https://hpbn.co
+https://hpbn.co/transport-layer-security-tls/
