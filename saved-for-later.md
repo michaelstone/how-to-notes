@@ -33,3 +33,10 @@ https://hpbn.co/transport-layer-security-tls/
 https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
 https://functional.works-hub.com/blog/Make-the-Leap-from-JavaScript-to-PureScript
+
+### UI Design
+
+https://www.invisionapp.com/studio
+http://carbondesignsystem.com/
+https://marvelapp.com/
+https://www.sketchapp.com/
